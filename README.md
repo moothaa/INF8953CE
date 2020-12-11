@@ -21,34 +21,34 @@ The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 ##### Labels
 1) Apple :apple:
 2) Empty 	
-3) Moustache 🕯️
-4) Mouth 
-5) Mug
+3) Moustache :moustache:
+4) Mouth :lips:
+5) Mug :coffee:
 6) Nail :fish:
-6) Nose :guitar:
-7) Octagon :icecream:
-8) Paintbrush
-9) Panda :panda:
-10) Parrot :parrot:
-11) Peanut :peanut:
-12) Pear :pear:
-13) Pencil :pen:
-14) Penguin :Penguin:
-15) Pillow :pillow:
-16) Pineapple :pineapple:
-17) Pool :pool:
-18) Rabbit :rabbit:
-19) Rhinoceros :rhinoceros:
-20) Rifle :rifle:
-21) Rollerskates :rollerskate:
-22) Sailbot :sailbot:
-22) Scorpion :scorpion:
-23) Screwdriver :screwdriver:
-24) Shovel : shovel:
-25) Sink :sink:
-26) Skateboard :skateboard:
-27) Skull :skull:
-28) Spoon :spoon:
+7) Nose :guitar:
+8) Octagon :icecream:
+9) Paintbrush
+10) Panda :panda_face:
+11) Parrot :parrot:
+12) Peanut :peanut:
+13) Pear :pear:
+14) Pencil :pen:
+15) Penguin :penguin:
+17) Pillow :pillow:
+18) Pineapple :pineapple:
+19) Pool :swimmer:
+20) Rabbit :rabbit:
+21) Rhinoceros :rhinoceros:
+22) Rifle :gun:
+23) Rollerskates :roller_skate:
+24) Sailboat :sailboat:
+25) Scorpion :scorpion:
+26) Screwdriver :screwdriver:
+27) Shovel : shovel:
+28) Sink :bath:
+29) Skateboard :skateboard:
+30) Skull :skull:
+31) Spoon :spoon:
 29) Squiggle :squiggle:
 
 ### Python  Implementation
