@@ -1,4 +1,4 @@
-# INF8953CE - FOO Team - Kaggle Competition
+# INF8953CE - Team Foo - Kaggle Competition
 
 This work has been done for a Kaggle competition for the course INF8953CE, during fall of 2020 at
 Polytechnic Montreal. The goal was to design a classification algorithm that can
@@ -40,7 +40,7 @@ The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 20) Rabbit :rabbit:
 21) Rhinoceros :rhinoceros:
 22) Rifle :gun:
-23) Rollerskates :roller_skate:
+23) Rollerskates
 24) Sailboat :sailboat:
 25) Scorpion :scorpion:
 26) Screwdriver 
