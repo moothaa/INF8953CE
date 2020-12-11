@@ -7,7 +7,7 @@ automatically identify hand-drawn images. The dataset used is a variant of the g
 ## Code Requirements
 You can create a new Conda environment to avoid having dependencies issues:
 ```
-conda create -n yourenvironment
+conda create -n yourenvironment python=3.8
 source activate yourenvironment
 ```
 After that you can install all the needed packages by navigating to the source folder, opening the terminal, and running pip on the requirements.txt file:
@@ -56,6 +56,8 @@ The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 ### 1) Random Forest Classifier:
 
 ### 2) Network Used - Convolutional Neural Network: 
+
+Please refer to the associated report for more information about our architecture. 
  
 ### Procedure
 
