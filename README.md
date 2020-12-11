@@ -8,11 +8,13 @@ automatically identify hand-drawn images. The dataset used is a variant of the g
 You can create a new Conda environment to avoid having dependencies issues:
 ```
 conda create -n yourenvironment python=3.8
-source activate yourenvironment
+conda activate yourenvironment
 ```
 After that you can install all the needed packages by navigating to the source folder, opening the terminal, and running pip on the requirements.txt file:
 
 ```pip install -r requirements.txt```
+
+Then proceed to select this new environment as your jupyter notebook kernel.
 
 ## Dataset
 The dataset used is a variant of the google quick draw dataset with 31 classes.
