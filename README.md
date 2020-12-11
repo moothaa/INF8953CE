@@ -10,9 +10,9 @@ You can create a new Conda environment to avoid having dependencies issues:
 conda create -n yourenvironment
 source activate yourenvironment
 ```
-After that you can install all the needed packages by running pip on the requirements.txt file:
+After that you can install all the needed packages by navigating to the source folder, opening the terminal, and running pip on the requirements.txt file:
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 ## Dataset
 The dataset used is a variant of the google quick draw dataset with 31 classes.
