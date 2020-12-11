@@ -4,7 +4,7 @@ This work has been done for a Kaggle competition for the course INF8953CE, durin
 Polytechnic Montreal. The goal was to design a classification algorithm that can
 automatically identify hand-drawn images. The dataset used is a variant of the google quick draw dataset with 31 classes.
 
-### Code Requirements
+## Code Requirements
 You can create a new Conda environment to avoid having dependencies issues:
 ```
 conda create -n yourenvironment
@@ -14,11 +14,11 @@ After that you can install all the needed packages by running pip on the require
 
 ```pip install requirements.txt```
 
-### Dataset
+## Dataset
 The dataset used is a variant of the google quick draw dataset with 31 classes.
 The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 
-##### Labels
+#### Labels
 1) Apple :apple:
 2) Empty 	
 3) Moustache 👨
@@ -51,12 +51,12 @@ The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 31) Spoon :spoon:
 29) Squiggle 
 
-### Python  Implementation
+## Python  Implementations:
 
-1) Network Used- Convolutional Neural Network
+### 1) Random Forest Classifier:
 
-If you face any problem, kindly raise an issue
-
+### 2) Network Used - Convolutional Neural Network: 
+ 
 ### Procedure
 
 1) Get the dataset as mentioned above and place the `.npy` files in `/data` folder.
