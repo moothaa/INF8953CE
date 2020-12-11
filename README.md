@@ -24,8 +24,8 @@ The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 3) Moustache 👨
 4) Mouth :lips:
 5) Mug :coffee:
-6) Nail :fish:
-7) Nose :guitar:
+6) Nail 💅
+7) Nose :nose:
 8) Octagon :stop_sign:
 9) Paintbrush :paintbrush:
 10) Panda :panda_face:
