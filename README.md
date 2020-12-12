@@ -53,33 +53,23 @@ The dataset is available [here](https://www.kaggle.com/c/f2020-INF8953CE/data).
 31) Spoon :spoon:
 29) Squiggle 
 
-## Python  Implementations:
+## Classifier Implementations:
 
-### 1) Random Forest Classifier:
+### 1) Convolutional Neural Network
 
-### 2) Network Used - Convolutional Neural Network: 
+### 2) k-Nearest Neighbors
 
-Please refer to the associated report for more information about our architecture. 
+### 3) Decision Tree
+
+### 4) Random Forest Regressor
+
+Please refer to the associated report for more information about the details of each implementation. 
  
 ### Procedure
 
-1) Get the dataset as mentioned above and place the `.npy` files in `/data` folder.
-2) First, run `LoadData.py` which will load the data from the `/data` folder and store the features and labels in  pickel files.
-3) Now you need to have the data, run `QD_trainer.py` which will load data from pickle and augment it. After this, the training process begins.
-2) Now you need to have the data, run `QuickDrawApp.py` which will use use the webcam to get what you have drawn.
-3) For altering the model, check `QD_trainer.py`.
-4) For tensorboard visualization, go to the specific log directory and run this command ` tensorboard --logdir=.` You can go to `localhost:6006` for visualizing your loss function and accuracy.
-
-### Mergerd to Google's git repo
-See the pull request [here](https://github.com/googlecreativelab/quickdraw-dataset/pull/25)
-
-<img src="https://github.com/akshaybahadur21/QuickDraw/blob/master/qd.gif">
-
-### References:
- 
- - [Google's Quick, Draw](https://quickdraw.withgoogle.com/) 
- - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset)
- - [Quick Draw: the world’s largest doodle dataset](https://towardsdatascience.com/quick-draw-the-worlds-largest-doodle-dataset-823c22ffce6b)
+1) Make sure you have installed all the librairies mentionned in the code requirements.
+2) Get the dataset as mentioned above and place the `.npy` files in the same folder as the notebook source code.
+3) Run all the notebook cells sequentially.
 
 
 
