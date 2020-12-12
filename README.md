@@ -5,16 +5,22 @@ Polytechnic Montreal. The goal was to design a classification algorithm that can
 automatically identify hand-drawn images. The dataset used is a variant of the google quick draw dataset with 31 classes.
 
 ## Code Requirements
-You can create a new Conda environment to avoid having dependencies issues:
-```
-conda create -n yourenvironment python=3.8
-conda activate yourenvironment
-```
-After that you can install all the needed packages by navigating to the source folder, opening the terminal, and running pip on the requirements.txt file:
+In order to execute the code, the following libraries are needed:
+Tensorflow, Keras, Numpy, Matplotlib, Scikit-learn, OpenCV (cv2).
 
-```pip install -r requirements.txt```
+If they are all already installed, please discard this section.
 
-Then proceed to select this new environment as your jupyter notebook kernel.
+If you have some of them missing, you can create a new environment in conda and then install the packages by following the instructions below:
+
+ ```
+ conda create -n yourenvironment python=3.8
+ conda activate yourenvironment
+ ```
+ After that you can install all the needed packages by navigating to the source folder, opening the terminal, and running pip on the requirements.txt file:
+
+ ```pip install -r requirements.txt```
+
+ Then proceed to select this new environment as your jupyter notebook kernel.
 
 ## Dataset
 The dataset used is a variant of the google quick draw dataset with 31 classes.
@@ -68,9 +74,5 @@ Please refer to the associated report for more information about the details of 
 ### Procedure
 
 1) Make sure you have installed all the librairies mentionned in the code requirements.
-2) Get the dataset as mentioned above and place the `.npy` files in the same folder as the notebook source code.
+2) Get the dataset as mentioned above and place the `.npy` and `.csv` files in the same folder as the notebook source code.
 3) Run all the notebook cells sequentially.
-
-
-
-
