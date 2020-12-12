@@ -6,7 +6,7 @@ automatically identify hand-drawn images. The dataset used is a variant of the g
 
 ## Code Requirements
 In order to execute the code, the following libraries are needed:
-Tensorflow, Keras, Numpy, Matplotlib, Scikit-learn, OpenCV (cv2).
+Tensorflow, Keras, Numpy, Matplotlib, Pandas, Scikit-learn, OpenCV (cv2).
 
 If they are all already installed, please discard this section.
 
